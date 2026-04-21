@@ -6,6 +6,10 @@ This project presents a structured network traffic analysis performed using Wire
 The objective is to inspect captured packets, identify communication patterns, and interpret protocol behavior across multiple layers of the network stack.
 
 ---
+## screenshot
+
+https://github.com/egeadican10/cv/issues/4
+
 
 ## 🧪 Methodology
 
